@@ -1,3 +1,2 @@
 # OEFDB-codes
-technical task
-coding at work
+technical task & coding at work
